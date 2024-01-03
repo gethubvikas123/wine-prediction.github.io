@@ -4,7 +4,7 @@ import numpy as np
 import pandas as pd
 import joblib
 
-model = joblib.load('C:\\Users\\Welcome\\OneDrive\\Desktop\\vikas practical\\Wine_prediction_model\\Wine_prediction.joblib', mmap_mode=None)
+model = joblib.load('Wine_prediction.joblib', mmap_mode=None)
 
 
 
