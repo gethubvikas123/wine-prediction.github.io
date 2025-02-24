@@ -33,7 +33,6 @@ def main():
     pH=st.number_input("Enter pH value")
     sulphates =st.number_input("Enter sulphates value")
     alcohol=st.number_input("Enter alcohol value")
-    id=st.number_input("Enter Wine Id")
 
     prediction_value= ''
 
